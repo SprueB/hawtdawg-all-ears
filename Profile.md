@@ -4,3 +4,4 @@ NAme
 Age
 Breed
 Location
+skills
